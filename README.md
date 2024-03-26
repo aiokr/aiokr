@@ -1,4 +1,10 @@
-### Hi there 👋
+## Hi 👋 I am aiokr, aka skomobi.
+
+[![Github](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Daiokr&query=%24.data.totalSubs&style=for-the-badge&logo=github&labelColor=%23222831&color=%23222831)](https://github.com/aiokr)
+
+- 🔭 I’m currently working on My Personal Website [Tripper Next (Github Repository)](https://github.com/aiokr/tripper-next)
+- 📫 Email me at: [hiaiokr+githubreadme@gmail.com](mailto:hiaiokr+githubreadme@gmail.com)
+- 🌱 View My Posts & Photos: [Tripper Press](https://tripper.press)
 
 <!--
 **aiokr/aiokr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
