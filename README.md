@@ -1,6 +1,6 @@
 ## Hi 👋 I am aiokr, aka skomobi.
 
-[![Github](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Daiokr&query=%24.data.totalSubs&style=for-the-badge&logo=github&labelColor=%23222831&color=%23222831)](https://github.com/aiokr)
+[![Github](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Daiokr&query=%24.data.totalSubs&style=for-the-badge&logo=github&label=Followers&labelColor=%23222831&color=%23222831)](https://github.com/aiokr)
 
 - 🔭 I’m currently working on My Personal Website [Tripper Next (Github Repository)](https://github.com/aiokr/tripper-next)
 - 🌱 View My Posts & Photos: [Tripper Press](https://tripper.press)
