@@ -2,10 +2,10 @@
 
 [![Github](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3Daiokr&query=%24.data.totalSubs&style=for-the-badge&logo=github&label=Followers&labelColor=%23222831&color=%23222831)](https://github.com/aiokr)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=aiokr&show_icons=true&theme=transparent&title_color=71afdd&icon_color=71afdd&text_color=71afdd#gh-dark-mode-only)![Github stats](https://github-readme-stats.vercel.app/api?username=aiokr&show_icons=true&theme=transparent&title_color=222813&icon_color=222831&text_color=222831#gh-light-mode-only)
+[![GitHub-Mark-Light](https://github-readme-stats.vercel.app/api?username=aiokr&show_icons=true&theme=transparent&title_color=71afdd&icon_color=71afdd&text_color=71afdd#gh-dark-mode-only)](https://github.com/aiokr#gh-dark-mode-only)
+[![GitHub-Mark-Dark](https://github-readme-stats.vercel.app/api?username=aiokr&show_icons=true&theme=transparent&title_color=71afdd&icon_color=222831&text_color=71afdd#gh-light-mode-only)](https://github.com/aiokr#gh-light-mode-only)
 
-
-- 🔭 I’m currently working on My Personal Website [Tripper Next (Github Repository)](https://github.com/aiokr/tripper-next)
+- 🔭 I’m currently working on [aiokr/FlexType: a Serverless-based content management system](https://github.com/aiokr/FlexType)
 - 🌱 View My Posts & Photos: [Tripper Press](https://tripper.press)
 - 📫 Email me at: [hiaiokr+githubreadme@gmail.com](mailto:hiaiokr+githubreadme@gmail.com)
 
