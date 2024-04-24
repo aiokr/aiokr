@@ -6,7 +6,7 @@
 [![GitHub-Mark-Dark](https://github-readme-stats.vercel.app/api?username=aiokr&show_icons=true&theme=transparent&title_color=71afdd&icon_color=222831&text_color=71afdd#gh-light-mode-only)](https://github.com/aiokr#gh-light-mode-only)
 
 - 🔭 I’m currently working on [aiokr/FlexType: a Serverless-based content management system](https://github.com/aiokr/FlexType)
-- 🌱 View My Posts & Photos: [Tripper Press](https://tripper.press)
+- 🌱 View My Posts [Tripper Press](https://tripper.press) & Photos [Photup](https://photup.art)
 - 📫 Email me at: [hiaiokr+githubreadme@gmail.com](mailto:hiaiokr+githubreadme@gmail.com)
 
 <!--
